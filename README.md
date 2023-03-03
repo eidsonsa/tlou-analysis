@@ -35,7 +35,7 @@ Com os dados de todos os jogos transformados em dataframe, adicionei a série da
 
 ![notas por titulo](graphs/titles_ratings.png)
 
-Podemos ver que em todas os títulos até então, a franquia The Last of Us obteve notas excelentes. A série tem a única nota menor que 9, mesmo com métodos de ranqueamento diferentes e situações atípicas, como a citada anteriormente.
+Podemos ver que em todos os títulos até então, a franquia The Last of Us obteve notas excelentes. A série tem a única nota menor que 9, mesmo com métodos de ranqueamento diferentes e situações atípicas, como a citada anteriormente.
 
 The Last of Us é uma daquelas franquias que será tida por longos anos como referência, seja na TV ou no mercado de jogos. Os jogos estão disponíveis na Playstation Store (e em breve no PC) e a série é exclusiva da HBO. Vale a pena dar uma conferida para entender o fenômeno causado pela Ellie e pelo Joel :)
 
